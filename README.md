@@ -24,7 +24,13 @@ This repository is a reflection of the knowledge I gained from the **[Learn Mach
 ## **✨ Key Topics Covered**
 
 - **Supervised and Unsupervised Learning**
-  
+
+![co relation plot](https://github.com/user-attachments/assets/2172d0fe-98ea-46f4-b904-e9401a2b548e)
+
+![outlier detection](https://github.com/user-attachments/assets/4bf22841-98fe-420f-b00d-a911d60d135f)
+
+![scatter plot of housing dataset](https://github.com/user-attachments/assets/44ebf9d3-1a66-4444-869d-1f904e5ec164)
+
 
 
   
@@ -40,6 +46,7 @@ This repository is a reflection of the knowledge I gained from the **[Learn Mach
 - **K-Means Clustering**
 
 ![clustring for customer segmentation](https://github.com/user-attachments/assets/08ce5dcb-6908-4b95-81a5-a52253b7fe93)
+
 ![clustring on pokemon dataset](https://github.com/user-attachments/assets/936ae053-c20b-404e-82ea-10d12fae6aba)
 
 
