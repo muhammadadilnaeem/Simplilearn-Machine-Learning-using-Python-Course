@@ -23,11 +23,30 @@ This repository is a reflection of the knowledge I gained from the **[Learn Mach
 
 ## **✨ Key Topics Covered**
 
-- Supervised and Unsupervised Learning
-- Linear Regression
-- Decision Trees
-- K-Means Clustering
-- Model Evaluation Techniques
+- **Supervised and Unsupervised Learning**
+  
+
+
+  
+- **Linear Regression**
+
+![download](https://github.com/user-attachments/assets/f9d427e7-630a-4e36-8566-67b0b37949fb)
+
+- **Decision Trees**
+
+![sample decision tree](https://github.com/user-attachments/assets/085104f1-05f2-4bb5-86d0-d0a8d54323d3)
+
+  
+- **K-Means Clustering**
+
+![clustring for customer segmentation](https://github.com/user-attachments/assets/08ce5dcb-6908-4b95-81a5-a52253b7fe93)
+![clustring on pokemon dataset](https://github.com/user-attachments/assets/936ae053-c20b-404e-82ea-10d12fae6aba)
+
+
+- **Model Evaluation Techniques**
+
+![ml_model_performance](https://github.com/user-attachments/assets/31a0b960-ca7b-4716-8101-5700f279bebb)
+  
 - And much more!
 
 ## **🎓 Acknowledgements**
