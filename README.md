@@ -18,6 +18,9 @@ Welcome to the **Machine Learning Basics** repository! This repository is dedica
 
 This repository is a reflection of the knowledge I gained from the **[Learn Machine Learning Basics](https://www.simplilearn.com/learn-machine-learning-basics-skillup)** course by Simplilearn. This course offered a beautiful experience, covering the essential topics required to dive into machine learning and providing practical hands-on projects.
 
+![Simplilearn Machine Learning using Python Course Compleation 1](https://github.com/user-attachments/assets/718e28fc-a5f5-46e5-9ac5-013b2650cefe)
+
+
 ## **✨ Key Topics Covered**
 
 - Supervised and Unsupervised Learning
