@@ -5,6 +5,9 @@
 
 Welcome to the **Machine Learning Basics** repository! This repository is dedicated to showcasing my journey through learning the fundamentals of machine learning. You'll find various datasets, Jupyter notebooks, and source code that I have worked on while building my understanding of machine learning algorithms and techniques.
 
+![Simplilearn Machine Learning using Python Cirtificate 1](https://github.com/user-attachments/assets/ca26b32f-a09d-4708-92f8-e85ffc11014f)
+
+
 
 ## 🗂️ Repository Contents
 
